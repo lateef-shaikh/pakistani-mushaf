@@ -7,7 +7,10 @@
 <span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الۡاَوَّلُ ١</span>
 
 <span data-type="ra-izafi" class="hashiya">وقف لازم</span>
+<span data-type="ra-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
 
 <span data-type="eoa-izafi" class="hashiya">وقف لازم</span>
+<span data-type="eoa-izafi" class="hashiya">وؔقف منزل</span>
+<span data-type="eoa-izafi" class="hashiya">معانقة ٣</span>
 
 <span data-type="ruku" class="hashiya">١-٧-٠٠</span>
