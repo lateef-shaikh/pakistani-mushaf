@@ -14,3 +14,8 @@
 <span data-type="eoa-izafi" class="hashiya">معانقة ٣</span>
 
 <span data-type="ruku" class="hashiya">١-٧-٠٠</span>
+
+<span data-type="ruku" class="hashiya">٢١-٩-٥</span>
+
+
+<!-- Done till here -->
