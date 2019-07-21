@@ -8,13 +8,14 @@
 
 .ramooz {
     font-size: 20.0pt;
-    /*font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';*/
-    font-family: 'Noto Naskh Arabic UI','PakType Naskh Basic';
+    font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
+    /*font-family: 'Noto Naskh Arabic UI','PakType Naskh Basic';*/
 }
 
 .body {
     font-size: 16.0pt;
-    font-family: 'Noto Naskh Arabic UI';
+    /*font-family: 'Noto Naskh Arabic UI';*/
+    font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
 }
 
 .heading {
