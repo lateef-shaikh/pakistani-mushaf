@@ -16,7 +16,7 @@
 
 <span data-type="ruku" class="hashiya">١-٧-٠٠</span>
 
-<span data-type="ruku" class="hashiya">٣٦-٦-٤</span>
+<span data-type="ruku" class="hashiya">٣٨-٨-٦</span>
 
 <span data-type="eoad-sc" class="eoAaya">࣢ؕ</span>
 
