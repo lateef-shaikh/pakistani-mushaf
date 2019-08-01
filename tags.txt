@@ -9,7 +9,7 @@
 
 <span data-type="ra-izafi" class="hashiya">وقف لازم</span>
 <span data-type="ra-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
-<span data-type="ra-izafi" class="hashiya">١مع</span>
+<span data-type="ra-izafi" class="hashiya">٢مع</span>
 <span data-type="ra-izafi" class="hashiya">و࣡قف منزل</span>
 <span data-type="ra-izafi" class="hashiya">معانقة ٤</span>
 
@@ -21,7 +21,7 @@
 
 <span data-type="ruku" class="hashiya">١-٧-٠٠</span>
 
-<span data-type="ruku" class="hashiya">١٤-١٤-٥</span>
+<span data-type="ruku" class="hashiya">١٧-١٦-٨</span>
 
 <span data-type="eoad-sc" class="eoAaya">࣢ؕ</span>
 
