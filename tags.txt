@@ -5,6 +5,7 @@
 
 
 <span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الۡاَوَّلُ ١</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الۡرابع ٤</span>
 
 <span data-type="ra-izafi" class="hashiya">وقف لازم</span>
 <span data-type="ra-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
@@ -16,10 +17,11 @@
 <span data-type="eoa-izafi" class="hashiya">وقف لازم</span>
 <span data-type="eoa-izafi" class="hashiya">وؔقف منزل</span>
 <span data-type="eoa-izafi" class="hashiya">معانقة ٣</span>
+<span data-type="eoa-izafi" class="hashiya">وؔقف جبريل عليه السلام</span>
 
 <span data-type="ruku" class="hashiya">١-٧-٠٠</span>
 
-<span data-type="ruku" class="hashiya">٨-٩-١٦</span>
+<span data-type="ruku" class="hashiya">١٢-١١-٣</span>
 
 <span data-type="eoad-sc" class="eoAaya">࣢ؕ</span>
 
