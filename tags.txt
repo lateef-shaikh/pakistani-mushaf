@@ -18,12 +18,20 @@
 <span data-type="eoa-izafi" class="hashiya">وؔقف منزل</span>
 <span data-type="eoa-izafi" class="hashiya">معانقة ٣</span>
 <span data-type="eoa-izafi" class="hashiya">وؔقف جبريل عليه السلام</span>
+<span data-type="eoa-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
 
 <span data-type="ruku" class="hashiya">١-٧-٠٠</span>
 
-<span data-type="ruku" class="hashiya">٤-٣-١</span>
+<span data-type="ruku" class="hashiya">٧-٨-٤</span>
 
 <span data-type="eoad-sc" class="eoAaya">࣢ؕ</span>
 
-
+page 81
 <!-- Done till here -->
+
+ۨ
+
+Noon Qutni
+4:36
+4:138
+4:140
