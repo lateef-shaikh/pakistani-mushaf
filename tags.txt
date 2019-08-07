@@ -35,3 +35,12 @@ Noon Qutni
 4:36
 4:138
 4:140
+
+
+
+Text bubble
+https://leaverou.github.io/bubbly/
+
+https://css-tricks.com/text-blocks-over-image/
+
+https://leaverou.github.io/bubbly/
