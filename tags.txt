@@ -22,11 +22,11 @@
 
 <span data-type="ruku" class="hashiya">١-٧-٠٠</span>
 
-<span data-type="ruku" class="hashiya">٧-٨-٤</span>
+<span data-type="ruku" class="hashiya">١١-١١-٨</span>
 
 <span data-type="eoad-sc" class="eoAaya">࣢ؕ</span>
 
-page 81
+page 84
 <!-- Done till here -->
 
 ۨ
