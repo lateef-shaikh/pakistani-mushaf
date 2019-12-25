@@ -1,0 +1,92 @@
+﻿وقف لازم
+الربع
+النصف
+الثلٰثة
+
+<span data-type="manzil-izafi" class="hashiya">اَلۡمنزل الثاني ٢</span>
+
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الۡاَوَّلُ ١</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السادس ٦</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السابع ٧</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثَّامِنُ ٨</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ التاسع ٩</span>
+
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ العاشر ١٠</span>
+
+<span data-type="ra-izafi" class="hashiya">وقف لازم</span>
+<span data-type="ra-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
+<span data-type="ra-izafi" class="hashiya">٣ مع</span>
+<span data-type="ra-izafi" class="hashiya">٤ مع</span>
+<span data-type="ra-izafi" class="hashiya">الوقف على الاول اجور ١٢</span>
+<span data-type="ra-izafi" class="hashiya">و࣡قف منزل</span>
+<span data-type="ra-izafi" class="hashiya">وؔقف منزل</span>
+<span data-type="ra-izafi" class="hashiya">وؔقف غفران</span>
+<span data-type="ra-izafi" class="hashiya">معانقة ٤</span>
+<span data-type="ra-izafi" class="hashiya">معانقة ٦</span>
+<span data-type="ra-izafi" class="hashiya">معانقة ٧</span>
+<span data-type="ra-izafi" class="hashiya">معانقة ٨</span>
+<span data-type="ra-izafi" class="hashiya">وقف لازم<br />وؔقف منزل عندالبعض<br />وؔقف غفران</span>
+
+
+<span data-type="eoa-izafi" class="hashiya">وقف لازم</span>
+<span data-type="eoa-izafi" class="hashiya">وقف لازم باختلاف</span>
+<span data-type="eoa-izafi" class="hashiya">وؔقف منزل</span>
+<span data-type="eoa-izafi" class="hashiya">وؔقف منزل عند البعض علىٰ يسمعون</span>
+<span data-type="eoa-izafi" class="hashiya">معانقة ٥</span>
+<span data-type="eoa-izafi" class="hashiya">وؔقف جبريل عليه السلام</span>
+<span data-type="eoa-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
+
+<span data-type="ruku" class="hashiya">١-٧-٠٠</span>
+
+<span data-type="ruku" class="hashiya">١٢-٦-١٨</span>
+
+<span data-type="eoad-sc" class="eoAaya">࣢ؕ</span>
+
+<!-- Done till here PDF 170 -->
+
+ۨ  -- supescript noon
+٘  -- superscipt noon ghunna
+
+
+Noon Qutni
+4:36
+4:138
+4:140
+7:8
+7:158
+7:164
+7:177
+
+
+
+Text bubble
+https://leaverou.github.io/bubbly/
+
+https://css-tricks.com/text-blocks-over-image/
+
+https://leaverou.github.io/bubbly/
+
+
+Issues:
+Soora 5
+27: ayat + nisf
+31: ayat + jeem + laam alef + 3 dots
+
+Soora 6
+36: ayat + takhalus
+72: d-eoa + Tuai + As-salasa
+124: Shape of Tua + Meem + Takhalus is not in sequence
+140: Ayat + Ain + Ar-rba
+165: Ayat + Ain + An-Nisf
+
+Soora 7
+57: Shadda + Vertical Zabr + Madda   حَتّٰٓي
+69: high seen + Jazk    بَصۜۡطَةً
+157: inverted damma + Madda 	مَعَهٗٓ
+163: Ayat + An-Nisf
+187: high meem (wo tail) + high tuai + high takhalus
+206: Ayat + Ain + As-sajda + As-salasa
+
+Soora 8
+75: Ayat + Ain + Ar-rba
+
