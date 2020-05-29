@@ -1,7 +1,15 @@
-﻿/*
-@import url(https://svn.code.sf.net/p/paktype/code/Fonts/Deployment/css/paktype.css);
+﻿
 @import url(http://fonts.googleapis.com/earlyaccess/notonaskharabicui.css);
-*/
+@font-face {
+  font-family: 'PakType Naskh Basic';
+  font-style: normal;
+  src: url(PakTypeNaskhBasic.eot);
+  src: url(PakTypeNaskhBasic.eot?#iefix) format('embedded-opentype'),
+       url(PakTypeNaskhBasic.woff2) format('woff2'),
+       url(PakTypeNaskhBasic.woff) format('woff'),
+       url(PakTypeNaskhBasic.ttf) format('truetype'),
+       url(PakTypeNaskhBasic.svg#svgFontName) format('svg'); /* Legacy iOS */
+}
 .eoAaya {
     font-size: 50.0pt;
     font-family: 'PakType Naskh Basic';
