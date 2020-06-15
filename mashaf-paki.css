@@ -1,5 +1,13 @@
 ﻿
 @import url(http://fonts.googleapis.com/earlyaccess/notonaskharabicui.css);
+
+/*
+ * PakType fonts http://paktype.sourceforge.net/download.php
+ * Code: https://svn.code.sf.net/p/paktype/code/Fonts/Deployment
+ */
+
+
+
 @font-face {
   font-family: 'PakType Naskh Basic';
   font-style: normal;
@@ -9,7 +17,9 @@
        url(PakTypeNaskhBasic.woff) format('woff'),
        url(PakTypeNaskhBasic.ttf) format('truetype'),
        url(PakTypeNaskhBasic.svg#svgFontName) format('svg'); /* Legacy iOS */
+
 }
+
 .eoAaya {
     font-size: 50.0pt;
     font-family: 'PakType Naskh Basic';
@@ -18,7 +28,11 @@
 .ramooz {
     font-size: 40.0pt;
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
-    /*font-family: 'Noto Naskh Arabic UI','PakType Naskh Basic';*/
+    /*font-family: 'Noto Naskh Arabic UI','PakType Naskh Basic';*/	
+}
+
+.ramooz:before {
+	content: "\200c\00a0"; /* zwnj + nbsp "\200c\00a0" */
 }
 
 .body {
