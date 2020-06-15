@@ -8,6 +8,7 @@
 <span data-type="manzil-izafi" class="hashiya">اَلۡمنزل الرابع ٤</span>
 <span data-type="manzil-izafi" class="hashiya">اَلۡمنزل الخامس ٥</span>
 <span data-type="manzil-izafi" class="hashiya">اَلۡمنزل السادس ٦</span>
+<span data-type="manzil-izafi" class="hashiya">اَلۡمنزل السابع ٧</span>
 
 <span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الۡاَوَّلُ ١</span>
 <span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السادس ٦</span>
@@ -29,6 +30,12 @@
 <span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثاني والعشرون ٢٢</span>
 <span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثالث والعشرون ٢٣</span>
 <span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الرابع والعشرون ٢٤</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الخامس والعشرون ٢٥</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السادس والعشرون ٢٦</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السابع والعشرون ٢٧</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثَّامِنُ والعشرون ٢٨</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ التاسع والعشرون ٢٩</span>
+<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثلٰثون ٣٠</span>
 
 <span data-type="ra-izafi" class="hashiya">وقف لازم</span>
 <span data-type="ra-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
@@ -39,6 +46,7 @@
 <span data-type="ra-izafi" class="hashiya">٧ مع</span>
 <span data-type="ra-izafi" class="hashiya">٨ مع</span>
 <span data-type="ra-izafi" class="hashiya">١٠ مع</span>
+<span data-type="ra-izafi" class="hashiya">١٦ مع</span>
 <span data-type="ra-izafi" class="hashiya">٥ مع<br />وؔقف منزل</span>
 <span data-type="ra-izafi" class="hashiya">الوقف على الاول اجور ١٢</span>
 <span data-type="ra-izafi" class="hashiya">و࣡قف منزل</span>
@@ -51,14 +59,26 @@
 <span data-type="ra-izafi" class="hashiya">معانقة ١١</span>
 <span data-type="ra-izafi" class="hashiya">معانقة ١٢</span>
 <span data-type="ra-izafi" class="hashiya">عند المتاخرين ١٢</span>
+<span data-type="ra-izafi" class="hashiya">معانقة ١٤</span>
+<span data-type="ra-izafi" class="hashiya">معانقة ١٦<br />السماع الوقف على القيمة ۚ ١٢</span>
+<span data-type="ra-izafi" class="hashiya">معانقة ١٧</span>
+<span data-type="ra-izafi" class="hashiya">معانقة ١٨</span>
+
+<span data-type="ra-izafi" class="hashiya">وؔقد يبتدا بقولهٖ ذٰلِكَؕ ولكن حسن اتصالهٗ بما قلبه و يوقف علىٰ ذٰلِكؕ ١٢<br />
+١٣ مع<br />عند المتقدمين ١٢</span>
 
 <span data-type="ra-izafi" class="hashiya">وقف لازم<br />وؔقف منزل عندالبعض<br />وؔقف غفران</span>
 <span data-type="ra-izafi" class="hashiya">وقف لازم<br />وؔقف منزل<br />وؔقف غفران</span>
+<span data-type="ra-izafi" class="hashiya">وقف لازم (اختلافی)<br />وؔقف منزل<br />وؔقف غفران</span>
+
+<span data-type="ra-izafi" class="hashiya">࣠اٰية حمصية ١٢</span>
+
 
 <span data-type="izafi" class="hashiya">قؔرء حفص بضم الضاد و فقها في الثلاثة لكن النعم مختاره ١٢</span>
 <span data-type="izafi" class="hashiya">نؔصف القراٰن باعتبار عدد الحروف بِاَنَّ التَّاء بعد الياء من النصف الاول واللام الثانية من النصف الاخير ١٢</span>
 
 <span data-type="izafi" class="hashiya">قؔرء حفص بفتح الميم والمالة الرآء ١٢</span>
+<span data-type="izafi" class="hashiya">قؔرء حفص بتسهيل الهمزة الثانية ١٢</span>
 
 <span data-type="eoa-izafi" class="hashiya">وقف لازم</span>
 <span data-type="eoa-izafi" class="hashiya">وقف لازم باختلاف</span>
@@ -73,7 +93,9 @@
 <span data-type="eoa-izafi" class="hashiya">٩ السجدة</span>
 <span data-type="eoa-izafi" class="hashiya">١٠ السجدة</span>
 <span data-type="eoa-izafi" class="hashiya">١٣ مع</span>
-
+<span data-type="eoa-izafi" class="hashiya">١١ مع<br />عند المتقدمين ١٢</span>
+<span data-type="eoa-izafi" class="hashiya">١٥ مع</span>
+<span data-type="eoa-izafi" class="hashiya">قؔرأحفص بغيرالالف في الوصل فيهما. ووقف على الاول بالالف وعلى الثاني بغير الالف ١٢</span>
 <span data-type="eoa-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
 
 
@@ -190,7 +212,7 @@ Soora 19:
 1: Ayat + qif + jeem
 
 Soora 25:
-4: Ayat + Jeem + Three dots 
+4: Ayat + Jeem + Three dots
 
 Soora 26
 117: Ayat + Jeem + salay + An-Nisf
@@ -199,7 +221,7 @@ Soora 30:
 54: Dumma + Takhalus  ضُؔعۡفٍ
 
 Soora 32:
-15: Ayat + As-Sajdah + Jeem (use Jeem + As-Sajdah)
+15: Ayat + As-Sajdat + Jeem
 18: Tuai + High takhalus + 1
 18: Ayat + High takhalus + 2
 
@@ -209,9 +231,38 @@ Soora 36:
 
 Soora 40:
 6: Ayat + High meem + Takhalus
----
 
-U+06BD - medial and initial shapes as پ (ref: en.wikipedia.org/wiki/Jawi_alphapet)
+
+U+06BD - medial and initial shapes as پ (ref: en.wikipedia.org/wiki/Jawi_alphapet) -- DONE
+
+------------------ DONE
+
+44: Fatha + Takhalus
+
+Soora 32:
+18: Tuai + High takhalus + 1
+18: Ayat + High takhalus + 2
+
+Soora 47:
+4: Superscript Alef with Takhalus
+
+Soora 48:
+29: Ulta Pesh + Madda
+
+Soora 50:
+25: Kasra + Below Noon Qutni is not placed properly (also in 57:23)
+
+Soora 53:
+37: Madda + vertical fatha + Madda is not placed properly
+
+Soora 55:
+11: Ayat + Salay
+
+Soora 56
+74: Better positioning of: Ayat + Ath-Thalatha + Jeem + Ain
+
+Soora 97:
+3: Ayat + Tuai + Takhalus
 
 Tests:
 * Make sure that every Juz has Ar-rba, An-nisf and As-salasa in them
