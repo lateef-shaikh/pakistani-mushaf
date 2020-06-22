@@ -20,6 +20,17 @@
 
 }
 
+section {
+    margin-right: 300px;
+    margin-left:300px;
+    background-color: lightyellow;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
 .eoAaya {
     font-size: 50.0pt;
     font-family: 'PakType Naskh Basic';
@@ -28,7 +39,6 @@
 .ramooz {
     font-size: 40.0pt;
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
-    /*font-family: 'Noto Naskh Arabic UI','PakType Naskh Basic';*/	
 }
 
 .ramooz:before {
@@ -46,6 +56,49 @@
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
 }
 
+p {
+    text-align: center;
+}
+
 .hashiya {
-    display: none;
+    font-size: 16pt;
+    position: absolute;
+    left: 50px;
+}
+
+.ruku {
+    font-size: 16pt;
+    position: absolute;
+    left: 50px;
+}
+
+
+
+.juz {
+    text-align: center;
+}
+
+.juz:after {
+    content: "\a";
+    white-space: pre;
+    text-align:center;
+}
+
+    .juz:before {
+        content: "\a";
+        white-space: pre;
+        text-align: center;
+    }
+
+
+.manzil:after {
+    content: "\a";
+    white-space: pre;
+    text-align: center;
+}
+
+.manzil:before {
+    content: "\a";
+    white-space: pre;
+    text-align: center;
 }

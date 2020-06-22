@@ -3,39 +3,39 @@
 النصف
 الثلٰثة
 
-<span data-type="manzil-izafi" class="hashiya">اَلۡمنزل الثاني ٢</span>
-<span data-type="manzil-izafi" class="hashiya">اَلۡمنزل الثالث ٣</span>
-<span data-type="manzil-izafi" class="hashiya">اَلۡمنزل الرابع ٤</span>
-<span data-type="manzil-izafi" class="hashiya">اَلۡمنزل الخامس ٥</span>
-<span data-type="manzil-izafi" class="hashiya">اَلۡمنزل السادس ٦</span>
-<span data-type="manzil-izafi" class="hashiya">اَلۡمنزل السابع ٧</span>
+<span data-type="manzil-izafi" class="manzil">اَلۡمنزل الثاني ٢</span>
+<span data-type="manzil-izafi" class="manzil">اَلۡمنزل الثالث ٣</span>
+<span data-type="manzil-izafi" class="manzil">اَلۡمنزل الرابع ٤</span>
+<span data-type="manzil-izafi" class="manzil">اَلۡمنزل الخامس ٥</span>
+<span data-type="manzil-izafi" class="manzil">اَلۡمنزل السادس ٦</span>
+<span data-type="manzil-izafi" class="manzil">اَلۡمنزل السابع ٧</span>
 
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الۡاَوَّلُ ١</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السادس ٦</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السابع ٧</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثَّامِنُ ٨</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ التاسع ٩</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ العاشر ١٠</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الحادي عشر ١١</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثاني عشر ١٢</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثالث عشر ١٣</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الرابع عشر ١٤</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الخامس عشر ١٥</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السادس عشر ١٦</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السابع عشر ١٧</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثَّامِنُ عشر ١٨</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ التاسع عشر ١٩</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ العشرون ٢٠</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الحادي العشرون ٢١</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثاني والعشرون ٢٢</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثالث والعشرون ٢٣</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الرابع والعشرون ٢٤</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الخامس والعشرون ٢٥</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السادس والعشرون ٢٦</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ السابع والعشرون ٢٧</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثَّامِنُ والعشرون ٢٨</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ التاسع والعشرون ٢٩</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الثلٰثون ٣٠</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الۡاَوَّلُ ١</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ السادس ٦</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ السابع ٧</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الثَّامِنُ ٨</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ التاسع ٩</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ العاشر ١٠</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الحادي عشر ١١</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الثاني عشر ١٢</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الثالث عشر ١٣</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الرابع عشر ١٤</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الخامس عشر ١٥</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ السادس عشر ١٦</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ السابع عشر ١٧</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الثَّامِنُ عشر ١٨</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ التاسع عشر ١٩</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ العشرون ٢٠</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الحادي العشرون ٢١</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الثاني والعشرون ٢٢</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الثالث والعشرون ٢٣</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الرابع والعشرون ٢٤</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الخامس والعشرون ٢٥</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ السادس والعشرون ٢٦</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ السابع والعشرون ٢٧</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الثَّامِنُ والعشرون ٢٨</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ التاسع والعشرون ٢٩</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الثلٰثون ٣٠</span>
 
 <span data-type="ra-izafi" class="hashiya">وقف لازم</span>
 <span data-type="ra-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
@@ -99,9 +99,9 @@
 <span data-type="eoa-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
 
 
-<span data-type="ruku" class="hashiya">١-٧-٠٠</span>
+<span data-type="ruku" class="ruku">١-٧-٠٠</span>
 
-<span data-type="ruku" class="hashiya">١٢-٦-١٨</span>
+<span data-type="ruku" class="ruku">١٢-٦-١٨</span>
 
 <span data-type="eoad-sc" class="eoAaya">࣢ؕ</span>
 

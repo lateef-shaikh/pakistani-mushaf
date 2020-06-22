@@ -4,8 +4,8 @@
 الثلٰثة
 
 
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ الۡاَوَّلُ ١</span>
-<span data-type="juz-izafi" class="hashiya">اَلۡجُزۡءُ ٥</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ الۡاَوَّلُ ١</span>
+<span data-type="juz-izafi" class="juz">اَلۡجُزۡءُ ٥</span>
 
 <span data-type="ra-izafi" class="hashiya">وقف لازم</span>
 <span data-type="ra-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
@@ -20,9 +20,9 @@
 <span data-type="eoa-izafi" class="hashiya">وؔقف جبريل عليه السلام</span>
 <span data-type="eoa-izafi" class="hashiya">وؔقف النبي صلى الله عليه وآله وسلم</span>
 
-<span data-type="ruku" class="hashiya">١-٧-٠٠</span>
+<span data-type="ruku" class="ruku">١-٧-٠٠</span>
 
-<span data-type="ruku" class="hashiya">١٤-٤-١١</span>
+<span data-type="ruku" class="ruku">١٤-٤-١١</span>
 
 <span data-type="eoad-sc" class="eoAaya">࣢ؕ</span>
 
