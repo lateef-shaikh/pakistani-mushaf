@@ -24,6 +24,7 @@ section {
     margin-right: 300px;
     margin-left:300px;
     background-color: lightyellow;
+    border: 5px solid black;    
 }
 
 h1 {
@@ -34,11 +35,13 @@ h1 {
 .eoAaya {
     font-size: 50.0pt;
     font-family: 'PakType Naskh Basic';
+    color:darkgreen;
 }
 
 .ramooz {
     font-size: 40.0pt;
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
+    color:darkblue;
 }
 
 .ramooz:before {
@@ -49,6 +52,7 @@ h1 {
     font-size: 30.0pt;
     /*font-family: 'Noto Naskh Arabic UI';*/
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
+    position: relative;
 }
 
 .heading {
@@ -62,43 +66,48 @@ p {
 
 .hashiya {
     font-size: 16pt;
-    position: absolute;
-    left: 50px;
+    position:absolute;
+    left: 180px;
+    display:inline-grid;
+    width: 100px;
+    color:darkred;
 }
 
 .ruku {
     font-size: 16pt;
     position: absolute;
+    display: inline;
     left: 50px;
+    width: 50px;
+    background-color: lightgray;
 }
+
+    .ruku:after {
+        background-color: lightgray;
+    }
+
+    .ruku:after {
+        content: "ع";
+        background-color: lightgray;
+    }
 
 
 
 .juz {
-    text-align: center;
+    font-size: 16pt;
+    position: absolute;
+    left: 10px;
+    display: grid;
+    width: 100px;
+    color:darkolivegreen;
+    background-color:gold;
 }
 
-.juz:after {
-    content: "\a";
-    white-space: pre;
-    text-align:center;
-}
-
-    .juz:before {
-        content: "\a";
-        white-space: pre;
-        text-align: center;
-    }
-
-
-.manzil:after {
-    content: "\a";
-    white-space: pre;
-    text-align: center;
-}
-
-.manzil:before {
-    content: "\a";
-    white-space: pre;
-    text-align: center;
+.manzil {
+    font-size: 16pt;
+    position: absolute;
+    left: 10px;
+    display: grid;
+    width: 100px;
+    color:darkmagenta;
 }
