@@ -9,44 +9,42 @@
 
 
 @font-face {
-  font-family: 'PakType Naskh Basic';
-  font-style: normal;
-  src: url(PakTypeNaskhBasic.eot);
-  src: url(PakTypeNaskhBasic.eot?#iefix) format('embedded-opentype'),
-       url(PakTypeNaskhBasic.woff2) format('woff2'),
-       url(PakTypeNaskhBasic.woff) format('woff'),
-       url(PakTypeNaskhBasic.ttf) format('truetype'),
-       url(PakTypeNaskhBasic.svg#svgFontName) format('svg'); /* Legacy iOS */
-
+    font-family: 'PakType Naskh Basic';
+    font-style: normal;
+    src: url(PakTypeNaskhBasic.eot);
+    src: url(PakTypeNaskhBasic.eot?#iefix) format('embedded-opentype'), url(PakTypeNaskhBasic.woff2) format('woff2'), url(PakTypeNaskhBasic.woff) format('woff'), url(PakTypeNaskhBasic.ttf) format('truetype'), url(PakTypeNaskhBasic.svg#svgFontName) format('svg'); /* Legacy iOS */
 }
 
 section {
     margin-right: 300px;
-    margin-left:300px;
+    margin-left: 300px;
+    padding: 0px 20px 0px 20px;
     background-color: lightyellow;
-    border: 5px solid black;    
+    border: 5px solid gold;
 }
 
 h1 {
     text-align: center;
-    color: green;
+    color: gold;
+    font-weight: lighter;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
 }
 
 .eoAaya {
     font-size: 50.0pt;
     font-family: 'PakType Naskh Basic';
-    color:darkgreen;
+    color: darkgreen;
 }
 
 .ramooz {
     font-size: 40.0pt;
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
-    color:darkblue;
+    color: darkblue;
 }
 
-.ramooz:before {
-	content: "\200c\00a0"; /* zwnj + nbsp "\200c\00a0" */
-}
+    .ramooz:before {
+        content: "\200c\00a0"; /* zwnj + nbsp "\200c\00a0" */
+    }
 
 .body {
     font-size: 30.0pt;
@@ -66,11 +64,10 @@ p {
 
 .hashiya {
     font-size: 16pt;
-    position:absolute;
+    position: absolute;
     left: 180px;
-    display:inline-grid;
+    display: inline-grid;
     width: 100px;
-    color:darkred;
 }
 
 .ruku {
@@ -99,8 +96,8 @@ p {
     left: 10px;
     display: grid;
     width: 100px;
-    color:darkolivegreen;
-    background-color:gold;
+    color: darkolivegreen;
+    background-color: gold;
 }
 
 .manzil {
@@ -109,5 +106,24 @@ p {
     left: 10px;
     display: grid;
     width: 100px;
-    color:darkmagenta;
+    color: darkmagenta;
+}
+
+
+[data-type="aaya"]::after {
+    content: "\a";
+    white-space:pre;
+}
+
+[data-type="eoa-izafi"] {
+    font-size: 16pt;
+    position: absolute;
+    display: inline;
+    left: 50px;
+    width: 100px;
+    color:darkgreen;
+}
+
+[data-type="ra-izafi"] {
+    color: darkblue;
 }
