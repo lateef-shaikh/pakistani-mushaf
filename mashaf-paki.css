@@ -15,6 +15,10 @@
     src: url(PakTypeNaskhBasic.eot?#iefix) format('embedded-opentype'), url(PakTypeNaskhBasic.woff2) format('woff2'), url(PakTypeNaskhBasic.woff) format('woff'), url(PakTypeNaskhBasic.ttf) format('truetype'), url(PakTypeNaskhBasic.svg#svgFontName) format('svg'); /* Legacy iOS */
 }
 
+html {
+    direction: rtl;
+}
+
 section {
     margin-right: 300px;
     margin-left: 300px;
@@ -110,10 +114,10 @@ p {
 }
 
 
-[data-type="aaya"]::after {
+/*[data-type="aaya"]::after {
     content: "\a";
     white-space:pre;
-}
+}*/
 
 [data-type="eoa-izafi"] {
     font-size: 16pt;
