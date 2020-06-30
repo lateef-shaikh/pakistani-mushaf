@@ -20,9 +20,8 @@ html {
 }
 
 section {
-    margin-right: 300px;
-    margin-left: 300px;
-    padding: 0px 20px 0px 20px;
+    margin-left: 20vw;
+    padding: 0vw 0.5vw 0vw 0.5vw;
     background-color: lightyellow;
     border: 5px solid gold;
 }
@@ -35,13 +34,13 @@ h1 {
 }
 
 .eoAaya {
-    font-size: 50.0pt;
+    font-size: 2.5vw;
     font-family: 'PakType Naskh Basic';
     color: darkgreen;
 }
 
 .ramooz {
-    font-size: 40.0pt;
+    font-size: 2.5vw;
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
     color: darkblue;
 }
@@ -51,14 +50,14 @@ h1 {
     }
 
 .body {
-    font-size: 30.0pt;
+    font-size: 1.5vw;
     /*font-family: 'Noto Naskh Arabic UI';*/
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
     position: relative;
 }
 
 .heading {
-    font-size: 50.0pt;
+    font-size: 4vw;
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
 }
 
@@ -67,19 +66,18 @@ p {
 }
 
 .hashiya {
-    font-size: 16pt;
+    font-size: 1vw;
     position: absolute;
-    left: 180px;
+    left: 12vw;
     display: inline-grid;
-    width: 100px;
+    width: 6vw;
 }
 
 .ruku {
-    font-size: 16pt;
+    font-size: 1vw;
     position: absolute;
     display: inline;
-    left: 50px;
-    width: 50px;
+    left: 0vw;
     background-color: lightgray;
 }
 
@@ -93,23 +91,21 @@ p {
     }
 
 
-
 .juz {
-    font-size: 16pt;
+    font-size: 1vw;
     position: absolute;
-    left: 10px;
-    display: grid;
-    width: 100px;
+    left: 0vw;
+    display: grid;    
     color: darkolivegreen;
     background-color: gold;
 }
 
 .manzil {
-    font-size: 16pt;
+    font-size: 1vw;
     position: absolute;
-    left: 180px;
+    left: 5vw;
     display: grid;
-    width: 100px;
+    width: 6vw;
     color: darkmagenta;
 }
 
@@ -120,11 +116,11 @@ p {
 }*/
 
 [data-type="eoa-izafi"] {
-    font-size: 16pt;
+    font-size: 1vw;
     position: absolute;
     display: inline;
-    left: 50px;
-    width: 100px;
+    left: 5vw;
+    width: 6vw;
     color:darkgreen;
 }
 
