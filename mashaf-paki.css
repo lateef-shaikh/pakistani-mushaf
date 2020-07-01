@@ -95,7 +95,8 @@ p {
     font-size: 1vw;
     position: absolute;
     left: 0vw;
-    display: grid;    
+    display: grid;
+    width: 5.5vw;
     color: darkolivegreen;
     background-color: gold;
 }
