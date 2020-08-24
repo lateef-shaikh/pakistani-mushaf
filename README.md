@@ -13,5 +13,13 @@ After this step, I updated my fonts ([PakType fonts](http://paktype.sourceforge.
 ## About this repository
 This repository has individual HTML5 files for every soora. Since HTML5 is based on XML therefore these files can be used as an XML source for your API.
 
+## Salient features of Pakistani script are:
+* Usage of Pakistani Quranic marks (U+08D4 to U+08E2) in text, on end of ayah and on disputed end of ayah (U+08E2)
+* Text uses Arabic Tah Marbuta (U+0629), Kaf (U+0643), Heh (U+0647), ~~Yeh (U+064A)~~ and Alef Maksura (U+0649) instead of Urdu variants.
+* Usage of end of ayah (U+06DD) with Arabic numbers and Pakistani Quranic marks above it
+* Separate tags for additional information which is normally published in the margins
+* Each ayah has attributes for juz and manzil numbers
+* Separate tag for End of Ruku with the three numeric components; Ruku in Soora, Aya in this Ruku and Ruku in Juz.
+
 ## Hosted at
 The contents of this repository are hosted at [Karachvi.com](https://www.karachvi.com)
