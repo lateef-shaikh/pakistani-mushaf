@@ -9,10 +9,10 @@
 
 
 @font-face {
-    font-family: 'PakType Naskh Basic';
+    font-family: 'PakType Naskh Basic Wide';
     font-style: normal;
-    src: url(PakTypeNaskhBasic.eot);
-    src: url(PakTypeNaskhBasic.eot?#iefix) format('embedded-opentype'), url(PakTypeNaskhBasic.woff2) format('woff2'), url(PakTypeNaskhBasic.woff) format('woff'), url(PakTypeNaskhBasic.ttf) format('truetype'), url(PakTypeNaskhBasic.svg#svgFontName) format('svg'); /* Legacy iOS */
+    src: url(PakTypeNaskhBasicWide.eot);
+    src: url(PakTypeNaskhBasicWide.eot?#iefix) format('embedded-opentype'), url(PakTypeNaskhBasicWide.woff2) format('woff2'), url(PakTypeNaskhBasicWide.woff) format('woff'), url(PakTypeNaskhBasicWide.ttf) format('truetype'), url(PakTypeNaskhBasicWide.svg#svgFontName) format('svg'); /* Legacy iOS */
 }
 
 html {
@@ -35,13 +35,13 @@ h1 {
 
 .eoAaya {
     font-size: 2.5vw;
-    font-family: 'PakType Naskh Basic';
+    font-family: 'PakType Naskh Basic Wide';
     color: darkgreen;
 }
 
 .ramooz {
     font-size: 2.5vw;
-    font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
+    font-family: 'PakType Naskh Basic Wide','Noto Naskh Arabic UI';
     color: darkblue;
 }
 
@@ -52,13 +52,13 @@ h1 {
 .body {
     font-size: 1.5vw;
     /*font-family: 'Noto Naskh Arabic UI';*/
-    font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
+    font-family: 'PakType Naskh Basic Wide','Noto Naskh Arabic UI';
     position: relative;
 }
 
 .heading {
     font-size: 4vw;
-    font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
+    font-family: 'PakType Naskh Basic Wide','Noto Naskh Arabic UI';
 }
 
 p {
