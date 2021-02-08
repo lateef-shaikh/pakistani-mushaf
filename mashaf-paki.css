@@ -49,6 +49,20 @@ h1 {
         content: "\200c\00a0"; /* zwnj + nbsp "\200c\00a0" */
     }
 
+.ramoozWide {
+    font-size: 2.5vw;
+    font-family: 'PakType Naskh Basic Wide','Noto Naskh Arabic UI';
+    color: darkblue;
+}
+
+    .ramoozWide:before {
+        content: "\00a0\00a0"; /* zwnj + nbsp "\200c\00a0" */
+    }
+
+    .ramoozWide:after {
+        content: "\00a0"; /* zwnj + nbsp "\200c\00a0" */
+    }
+
 .body {
     font-size: 1.5vw;
     /*font-family: 'Noto Naskh Arabic UI';*/
