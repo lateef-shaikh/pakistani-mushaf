@@ -1,7 +1,7 @@
 # Quran mushaf in Pakistani/Indian sub continent style in HTML5
 
 ## Proof Read status
-This mushaf is still **not proof read**. Please use is cautiously.
+This mushaf is now **proof read** and all issues are fixed!
 
 ## Some background
 Unicode now has all Pakistani/Indian sub continent marks (ramooz-e-auqaf) incorporated. But unfortunately none of the Quran text available online uses those marks and instead every website uses their own font and text where a non-standard code point is used for those marks. Another issue is that Unicode also has End Of Aaya mark but again no Quranic text is using it also.
