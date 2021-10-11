@@ -15,7 +15,8 @@ This repository has individual HTML5 files for every soora. Since HTML5 is based
 
 ## Salient features of Pakistani script are:
 * Usage of Pakistani Quranic marks (U+08D4 to U+08E2) in text, above the end of ayah and above the disputed end of ayah (U+08E2)
-* Text uses Arabic Tah Marbuta (U+0629), Kaf (U+0643), Heh (U+0647), ~~Yeh (U+064A)~~ and Alef Maksura (U+0649) instead of Urdu variants.
+* Text uses Arabic Tah Marbuta (U+0629), Kaf (U+0643), Heh (U+0647) and Alef Maksura (U+0649) instead of Urdu variants.
+* Text uses Farsi/Urdu Yeh because the final shape of Yeh in this style does not have dots (nukta). Here is a video which explains it: https://youtu.be/nk3wjTBluSo
 * Usage of end of ayah (U+06DD) with Arabic numbers and Pakistani Quranic marks above it
 * Separate tags for additional information which is normally published in the margins
 * Each ayah has attributes for juz and manzil numbers
