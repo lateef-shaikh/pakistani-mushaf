@@ -9,10 +9,15 @@
 
 
 @font-face {
-    font-family: 'PakType Naskh Basic Wide';
-    font-style: normal;
-    src: url(PakTypeNaskhBasicWide.eot);
-    src: url(PakTypeNaskhBasicWide.eot?#iefix) format('embedded-opentype'), url(PakTypeNaskhBasicWide.woff2) format('woff2'), url(PakTypeNaskhBasicWide.woff) format('woff'), url(PakTypeNaskhBasicWide.ttf) format('truetype'), url(PakTypeNaskhBasicWide.svg#svgFontName) format('svg'); /* Legacy iOS */
+  font-family: 'PakType Naskh Basic Wide';
+  font-style: normal;
+  src: url(PakTypeNaskhBasicWide.eot);
+  src: url(PakTypeNaskhBasicWide.eot?#iefix) format('embedded-opentype'),
+       url(PakTypeNaskhBasicWide.woff2) format('woff2'),
+       url(PakTypeNaskhBasicWide.woff) format('woff'),
+       url(PakTypeNaskhBasicWide.ttf) format('truetype'),
+       url(PakTypeNaskhBasicWide.svg#svgFontName) format('svg'); /* Legacy iOS */
+
 }
 
 html {
@@ -34,13 +39,19 @@ h1 {
 }
 
 .eoAaya {
-    font-size: 2.5vw;
+    font-size: calc(1.5vw + 1em);
     font-family: 'PakType Naskh Basic Wide';
     color: darkgreen;
 }
 
+.reh {
+    font-size: calc(0.15vw + 1em);
+    font-family: 'PakType Naskh Basic Wide';
+    color: darkred;
+}
+
 .ramooz {
-    font-size: 2.5vw;
+    font-size: calc(0.5vw + 1em);
     font-family: 'PakType Naskh Basic Wide','Noto Naskh Arabic UI';
     color: darkblue;
 }
@@ -50,7 +61,7 @@ h1 {
     }
 
 .ramoozWide {
-    font-size: 2.5vw;
+    font-size: calc(0.5vw + 1em);
     font-family: 'PakType Naskh Basic Wide','Noto Naskh Arabic UI';
     color: darkblue;
 }
@@ -62,16 +73,15 @@ h1 {
     .ramoozWide:after {
         content: "\00a0"; /* zwnj + nbsp "\200c\00a0" */
     }
-
 .body {
-    font-size: 1.5vw;
+    font-size: calc(0.5vw + 1em);
     /*font-family: 'Noto Naskh Arabic UI';*/
     font-family: 'PakType Naskh Basic Wide','Noto Naskh Arabic UI';
     position: relative;
 }
 
 .heading {
-    font-size: 4vw;
+    font-size: calc(2vw + 1em);
     font-family: 'PakType Naskh Basic Wide','Noto Naskh Arabic UI';
 }
 
@@ -79,8 +89,43 @@ p {
     text-align: center;
 }
 
+.juz {
+    font-size: calc(0.5vw + 0.35em);
+    position: absolute;
+    left: 0vw;
+    width: 5.5vw;
+    display: inline-grid;
+    color: darkolivegreen;
+    background-color: gold;
+    user-select: none;
+}
+
+.manzil {
+    font-size: calc(0.5vw + 0.35em);
+    position: absolute;
+    left: 5vw;
+    display: grid;
+    width: 5vw;
+    color: darkmagenta;
+    user-select: none;
+}
+
+.reh-hashiya {
+    font-size: calc(0.5vw + 0.35em);
+    position: absolute;
+    left: 12vw;
+    display: inline-grid;
+    width: 6vw;
+    color: darkred;
+    user-select: none;
+}
+
+[data-type="ra-izafi"] {
+    color: darkblue;
+}
+
 .hashiya {
-    font-size: 1vw;
+    font-size: calc(0.5vw + 0.35em);
     position: absolute;
     left: 12vw;
     display: inline-grid;
@@ -88,8 +133,21 @@ p {
     user-select: none;
 }
 
+[data-type="eoa-izafi"] {
+    font-size: calc(0.5vw + 0.35em);
+    position: absolute;
+    display: inline;
+    left: 5vw;
+    width: 6vw;
+    color: darkgreen;
+}
+
+[data-type="ra-izafi"] {
+    color: darkblue;
+}
+
 .ruku {
-    font-size: 1vw;
+    font-size: calc(0.5vw + 0.35em);
     position: absolute;
     display: inline;
     left: 0vw;
@@ -105,44 +163,3 @@ p {
         content: "ع";
         background-color: lightgray;
     }
-
-
-.juz {
-    font-size: 1vw;
-    position: absolute;
-    left: 0vw;
-    display: inline-grid;
-    width: 5.5vw;
-    color: darkolivegreen;
-    background-color: gold;
-    user-select: none;
-}
-
-.manzil {
-    font-size: 1vw;
-    position: absolute;
-    left: 5vw;
-    display: grid;
-    width: 6vw;
-    color: darkmagenta;
-    user-select: none;
-}
-
-
-/*[data-type="aaya"]::after {
-    content: "\a";
-    white-space:pre;
-}*/
-
-[data-type="eoa-izafi"] {
-    font-size: 1vw;
-    position: absolute;
-    display: inline;
-    left: 5vw;
-    width: 6vw;
-    color:darkgreen;
-}
-
-[data-type="ra-izafi"] {
-    color: darkblue;
-}
