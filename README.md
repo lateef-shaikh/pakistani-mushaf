@@ -21,6 +21,7 @@ This repository has individual HTML5 files for every soora. Since HTML5 is based
 * Separate tags for additional information which is normally published in the margins
 * Each ayah has attributes for juz and manzil numbers
 * Separate tag for End of Ruku with the three numeric components; Ruku in Soora, Aya in this Ruku and Ruku in Juz.
+* List of all characters used in this mushaf is located here: https://karachvi.com/quran/charsUsedPakistani.html
 
 ## Hosted at
 The contents of this repository are hosted at [Karachvi.com](https://www.karachvi.com)
